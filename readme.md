@@ -21,6 +21,7 @@ Out of the nearly 100 distributions I fit to the data (Figure 1), it was the log
 <img src="images/logos/matplotlib.png" width="120">
 <img src="images/logos/scipy.png" width="120">
 <img src="images/logos/jupyter.png" width="120">
+<img src="images/logos/linux.png" width="120">
 <br>
 # Gephi Visualizations of Presidential Candidate Facebook Like Networks
 
@@ -40,6 +41,7 @@ These figures reveal very curious trends I won’t attempt to explain, but pleas
 <br>
 <img src="images/logos/facebook.png" width="120">
 <img src="images/logos/gephi.png" width="120">
+<img src="images/logos/win10.png" width="120">
 <br>
 
 # Seattle 911 Plots
@@ -68,3 +70,4 @@ Figure 3 is a plot of the latitude and longitude for 550,000 calls placed to 911
 <img src="images/logos/python.png" width="120">
 <img src="images/logos/matplotlib.png" width="120">
 <img src="images/logos/jupyter.png" width="120">
+<img src="images/logos/linux.png" width="120">
