@@ -11,6 +11,7 @@
 Death is a fascinating topic because it’s the one thing all human beings will share, but we never talk about it. I recently came across World Health Organization data on age and cause of death for over 600,000,000 people over the last several years.
 
 I thought it would be interesting to study the distribution of age of death. In statistics, distributions are used to describe how frequently a particular value appears. Even if you have never studied statistics, you are already familiar with the idea of a bell curve. This shape occurs so commonly that it’s referred to as a normal distribution.
+
 There are many distributions of varying shapes used in statistics. Several of these distributions are used to describe failure rates of machines over time as parts wear out. I suspected that these distributions might also be applicable to the human body because we are machines that wear out. As it turns out, these distributions do a terrible job of describing human mortality rates. One plausible explanation for this difference is that unlike machines, the human body has an amazing ability to heal itself. As we lose this ability we die at higher and higher rates.
 
 Out of the nearly 100 distributions I fit to the data (Figure 1), it was the log gamma distribution that best matched (Figures 2). This is a pretty exotic distribution, but it appears that lifetime modeling and the medical field are two of its primary uses.
