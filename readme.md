@@ -1,3 +1,24 @@
+# Baton Rouge Flooding
+
+<img src="images/precip_hist_smooth.png" width="800">
+#### Figure 1: Histogram of Baton Rouge August rainfall totals.
+<br>
+<img src="images/temp_precip2.png" width="800">
+#### Figure 2: Scatter plots of North hemisphere surface temperature and Baton Rouge rainfall totals for August.
+
+###### Temperature data from NASA and rainfall data from NOAA.
+
+I’m a little late in posting this one because August is now a distant memory, but I found the discussion around the flooding in Baton Rouge both fascinating and terrifying. I recently learned that there is a schism in the federal government right now where the majority of congress denies climate change while many agencies such as FEMA, NASA, and the military both believe in and study the phenomenon. Some of these organizations avoid the term ‘climate change’  for fear of potential political repercussions. Others, like NASA, have fearlessly posted evidence of this climate change.
+
+Figure 1 is a histogram of August rainfall totals in Baton Rouge over the last 126 years. The data point to the fair right is the rainfall for August 2016 and it sticks out like a sore thumb. Figure 2 contains a plot of Western surface temperature and Baton Rouge August rainfall over time. The temperature plot is alarming because it means both more water evaporating into the air from the water and air that hold greater masses of water. It’s not a stretch to say that physics suggest that 'excessive’ rainfall events will probably become more and more common in the coming years.
+
+<img src="images/logos/nasa.png" width="120">
+<img src="images/logos/noaa.png" width="120">
+<img src="images/logos/python.png" width="120">
+<img src="images/logos/matplotlib.png" width="120">
+<img src="images/logos/jupyter.png" width="120">
+<img src="images/logos/linux.png" width="120">
+<br>
 # Fitting Distributions to WHO Mortality by Age Data
 
 <img src="images/all_dist.png" width="800">
