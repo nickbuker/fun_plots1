@@ -1,12 +1,12 @@
-# Baton Rouge Flooding
+<h1> Baton Rouge Flooding </h1>
 
 <img src="images/precip_hist_smooth.png" width="800">
-#### Figure 1: Histogram of Baton Rouge August rainfall totals.
+<h4> Figure 1: Histogram of Baton Rouge August rainfall totals. </h4>
 <br>
 <img src="images/temp_precip2.png" width="800">
-#### Figure 2: Scatter plots of North hemisphere surface temperature and Baton Rouge rainfall totals for August.
+<h4> Figure 2: Scatter plots of North hemisphere surface temperature and Baton Rouge rainfall totals for August. </h4>
 
-##### Temperature data from NASA and rainfall data from NOAA.
+<h5> Temperature data from NASA and rainfall data from NOAA. </h5>
 
 I’m a little late in posting this one because August is now a distant memory, but I found the discussion around the flooding in Baton Rouge both fascinating and terrifying. I recently learned that there is a schism in the federal government right now where the majority of congress denies climate change while many agencies such as FEMA, NASA, and the military both believe in and study the phenomenon. Some of these organizations avoid the term ‘climate change’  for fear of potential political repercussions. Others, like NASA, have fearlessly posted evidence of this climate change.
 
@@ -19,15 +19,15 @@ Figure 1 is a histogram of August rainfall totals in Baton Rouge over the last 1
 <img src="images/logos/jupyter.png" width="120">
 <img src="images/logos/linux.png" width="120">
 <br>
-# Fitting Distributions to WHO Mortality by Age Data
+<h1> Fitting Distributions to WHO Mortality by Age Data </h1>
 
 <img src="images/all_dist.png" width="800">
-#### Figure 1: All distributions in SciPy stats fitted to WHO mortality by age data for the United States.
+<h4> Figure 1: All distributions in SciPy stats fitted to WHO mortality by age data for the United States. </h4>
 <br>
 <img src="images/best_fit.png" width="800">
-#### Figure 2: Best fitting distribution with paramaters.
+<h4> Figure 2: Best fitting distribution with paramaters. </h4>
 
-##### All probability distributions from SciPy Stats were fit to World Health Organization global mortality data for the United States.  Images are in the images folder and Python code can be found in the Jupyter Notebook in the src folder.
+<h5> All probability distributions from SciPy Stats were fit to World Health Organization global mortality data for the United States.  Images are in the images folder and Python code can be found in the Jupyter Notebook in the src folder. </h5>
 
 Death is a fascinating topic because it’s the one thing all human beings will share, but we never talk about it. I recently came across World Health Organization data on age and cause of death for over 600,000,000 people over the last several years.
 
@@ -45,16 +45,16 @@ Out of the nearly 100 distributions I fit to the data (Figure 1), it was the log
 <img src="images/logos/jupyter.png" width="120">
 <img src="images/logos/linux.png" width="120">
 <br>
-# Gephi Visualizations of Presidential Candidate Facebook Like Networks
+<h1> Gephi Visualizations of Presidential Candidate Facebook Like Networks </h1>
 
 <img src="images/clinton2.png" width="800">
 
-#### Figure 1: Gephi visualization of the like network for Hillary Clinton's Facebook page.
+<h4> Figure 1: Gephi visualization of the like network for Hillary Clinton's Facebook page. </h4>
 <br>
 <img src="images/trump2.png" width="800">
-#### Figure 2: Gephi visualization of the like network for Donald Trump's Facebook page.
+<h4> Figure 2: Gephi visualization of the like network for Donald Trump's Facebook page. </h4>
 
-##### Gephi network visualizations of Facebook pages liked by people who liked Hillary Clinton's and Donald Trump's Facebook pages.
+<h5> Gephi network visualizations of Facebook pages liked by people who liked Hillary Clinton's and Donald Trump's Facebook pages. </h5>
 
 I present to you my first attempts at network visualization. I used an app name NetVizz to scrape information from the Facebook pages of Donald Trump and Hillary Clinton about what other pages are liked by people who like the pages of Trump and Clinton. The graphs were created with a piece of software named Gephi.
 
@@ -66,18 +66,18 @@ These figures reveal very curious trends I won’t attempt to explain, but pleas
 <img src="images/logos/win10.png" width="120">
 <br>
 
-# Seattle 911 Plots
+<h1> Seattle 911 Plots </h1>
 
 <img src="images/seattle_911_hexlog.png" width="800">
-#### Figure 1: Logarithmic heat map of Seattle 911 calls.
+<h4> Figure 1: Logarithmic heat map of Seattle 911 calls. </h4>
 <br>
 <img src="images/seattle_911_hex.png" width="800">
-#### Figure 2: Heat map of Seattle 911 calls.
+<h4> Figure 2: Heat map of Seattle 911 calls. </h4>
 <br>
 <img src="images/seattle_911a.png" width="800">
-#### Figure 3: Plot of 550,000 Seattle 911 calls by location.
+<h4> Figure 3: Plot of 550,000 Seattle 911 calls by location. </h4>
 <br>
-##### Plots of public [Seattle 911](https://data.seattle.gov/Public-Safety/Seattle-Police-Department-911-Incident-Response/3k2p-39jp/data) data in the images folder.  Python code can be found in the Jupyter Notebook in the src folder.
+<h5> Plots of public [Seattle 911](https://data.seattle.gov/Public-Safety/Seattle-Police-Department-911-Incident-Response/3k2p-39jp/data) data in the images folder.  Python code can be found in the Jupyter Notebook in the src folder. </h5>
 
 I’ve revisited the Seattle 911 data to create these heatmaps (or hexbin 3D histograms if you prefer). The colors represent the number of 911 calls placed from within that hex.
 
