@@ -12,12 +12,7 @@ I’m a little late in posting this one because August is now a distant memory, 
 
 Figure 1 is a histogram of August rainfall totals in Baton Rouge over the last 126 years. The data point to the fair right is the rainfall for August 2016 and it sticks out like a sore thumb. Figure 2 contains a plot of Western surface temperature and Baton Rouge August rainfall over time. The temperature plot is alarming because it means both more water evaporating into the air from the water and air that hold greater masses of water. It’s not a stretch to say that physics suggest that 'excessive’ rainfall events will probably become more and more common in the coming years.
 
-<img src="images/logos/nasa.png" width="120">
-<img src="images/logos/noaa.png" width="120">
-<img src="images/logos/python.png" width="120">
-<img src="images/logos/matplotlib.png" width="120">
-<img src="images/logos/jupyter.png" width="120">
-<img src="images/logos/linux.png" width="120">
+<img src="images/logos/nasa.png" width="120"> <img src="images/logos/noaa.png" width="120"> <img src="images/logos/python.png" width="120"> <img src="images/logos/matplotlib.png" width="120"> <img src="images/logos/jupyter.png" width="120"> <img src="images/logos/linux.png" width="120">
 <br>
 <h1> Fitting Distributions to WHO Mortality by Age Data </h1>
 
@@ -38,12 +33,8 @@ There are many distributions of varying shapes used in statistics. Several of th
 Out of the nearly 100 distributions I fit to the data (Figure 1), it was the log gamma distribution that best matched (Figures 2). This is a pretty exotic distribution, but it appears that lifetime modeling and the medical field are two of its primary uses.
 <br>
 
-<img src="images/logos/who.png" width="120">
-<img src="images/logos/python.png" width="120">
-<img src="images/logos/matplotlib.png" width="120">
-<img src="images/logos/scipy.png" width="120">
-<img src="images/logos/jupyter.png" width="120">
-<img src="images/logos/linux.png" width="120">
+<img src="images/logos/who.png" width="120"> <img src="images/logos/python.png" width="120"> <img src="images/logos/matplotlib.png" width="120">
+<img src="images/logos/scipy.png" width="120"> <img src="images/logos/jupyter.png" width="120"> <img src="images/logos/linux.png" width="120">
 <br>
 <h1> Gephi Visualizations of Presidential Candidate Facebook Like Networks </h1>
 
@@ -61,9 +52,7 @@ I present to you my first attempts at network visualization. I used an app name 
 These figures reveal very curious trends I won’t attempt to explain, but please feel free to share your interpretations. Figure 1 (Clinton’s graph) is curiously dominated by Wellesley College pages with a large portion being dedicated to Democratic party pages. The lobes seem to be largely unconnected. Figure 2 (Trump’s plot) on the other hand, is a bizarre salad of TV entertainment and luxury brands. Strangely, Glamour, Vera Wang, Stewart Weddings, and BRIDES are in the network of this loud misogynist as well.
 
 <br>
-<img src="images/logos/facebook.png" width="120">
-<img src="images/logos/gephi.png" width="120">
-<img src="images/logos/win10.png" width="120">
+<img src="images/logos/facebook.png" width="120"> <img src="images/logos/gephi.png" width="120"> <img src="images/logos/win10.png" width="120">
 <br>
 
 <h1> Seattle 911 Plots </h1>
@@ -88,8 +77,5 @@ The mysterious yellow cell captured my curiosity so I examined it more closely. 
 Figure 3 is a plot of the latitude and longitude for 550,000 calls placed to 911 in the city of Seattle. The shape of Seattle is quite clear because unsurprisingly, not a lot of 911 calls come from the bodies of water. The bridges however appear to hot spots presumably due to car accidents. Some places stand out for being devoid of calls such as the Zoo and the Port. Others, like downtown and good old Aurora are noticeably active. The striations that are visible in some of the residential areas are presumably the result of the algorithms are used anonymize the location by adding uncertainty. I plan to revisit this data with heat mapping.
 
 <br>
-<img src="images/logos/seattle.png" width="120">
-<img src="images/logos/python.png" width="120">
-<img src="images/logos/matplotlib.png" width="120">
-<img src="images/logos/jupyter.png" width="120">
-<img src="images/logos/linux.png" width="120">
+<img src="images/logos/seattle.png" width="120"> <img src="images/logos/python.png" width="120"> <img src="images/logos/matplotlib.png" width="120">
+<img src="images/logos/jupyter.png" width="120"> <img src="images/logos/linux.png" width="120">
