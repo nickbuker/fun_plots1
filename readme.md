@@ -33,8 +33,7 @@ There are many distributions of varying shapes used in statistics. Several of th
 Out of the nearly 100 distributions I fit to the data (Figure 1), it was the log gamma distribution that best matched (Figures 2). This is a pretty exotic distribution, but it appears that lifetime modeling and the medical field are two of its primary uses.
 <br>
 
-<img src="images/logos/who.png" width="120"> <img src="images/logos/python.png" width="120"> <img src="images/logos/matplotlib.png" width="120">
-<img src="images/logos/scipy.png" width="120"> <img src="images/logos/jupyter.png" width="120"> <img src="images/logos/linux.png" width="120">
+<img src="images/logos/who.png" width="120"> <img src="images/logos/python.png" width="120"> <img src="images/logos/matplotlib.png" width="120"> <img src="images/logos/scipy.png" width="120"> <img src="images/logos/jupyter.png" width="120"> <img src="images/logos/linux.png" width="120">
 <br>
 <h1> Gephi Visualizations of Presidential Candidate Facebook Like Networks </h1>
 
@@ -77,5 +76,5 @@ The mysterious yellow cell captured my curiosity so I examined it more closely. 
 Figure 3 is a plot of the latitude and longitude for 550,000 calls placed to 911 in the city of Seattle. The shape of Seattle is quite clear because unsurprisingly, not a lot of 911 calls come from the bodies of water. The bridges however appear to hot spots presumably due to car accidents. Some places stand out for being devoid of calls such as the Zoo and the Port. Others, like downtown and good old Aurora are noticeably active. The striations that are visible in some of the residential areas are presumably the result of the algorithms are used anonymize the location by adding uncertainty. I plan to revisit this data with heat mapping.
 
 <br>
-<img src="images/logos/seattle.png" width="120"> <img src="images/logos/python.png" width="120"> <img src="images/logos/matplotlib.png" width="120">
-<img src="images/logos/jupyter.png" width="120"> <img src="images/logos/linux.png" width="120">
+<img src="images/logos/seattle.png" width="120"> <img src="images/logos/python.png" width="120"> <img src="images/logos/matplotlib.png" width="120"> <img src="images/logos/jupyter.png" width="120"> <img src="images/logos/linux.png" width="120">
+<br>
